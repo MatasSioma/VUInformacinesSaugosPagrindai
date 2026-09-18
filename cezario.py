@@ -21,7 +21,7 @@ def cezarEncrypt(s, n):
 
 def cezarDecrypt(s):
     for n in range(len(BASE)):
-        print(f"{n}: {cezarEncrypt(s, n)}")
+        print(f"{n}: {cezarEncrypt(s, -n)}")
 
 
 if __name__ == "__main__":
