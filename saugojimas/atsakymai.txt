@@ -1,0 +1,13 @@
+Stud nr - 2314004
+Variantas - 5  (2314004 mod 10 + 1 = 5)
+
+Rasti slaptazodziai (dictionary ataka):
+
+MD5     3584975
+SHA-256 rodenia4
+bcrypt  master
+scrypt  manuel
+Argon2  soccer
+
+Zodynai: MD5 ir SHA-256 - rockyou.txt; bcrypt, scrypt, Argon2 - rockyou_1000.txt.
+Programos kodas: saugojimas.py
