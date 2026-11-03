@@ -9,7 +9,7 @@ from pagalbines_funkcijos import string_to_int, int_to_string, int_to_bytes
 def primeGen(e):
     while True:
         p = 2**255 + secrets.randbelow(2**255)  # atsitiktinis 256 bitų skaičius
-        if pow(2, p - 1, p) == 1 and p % e != 1:
+        if pow(2, p - 1, p) == 1 and p % e != 1: # ar pirminis
             return p
 
 #47057
