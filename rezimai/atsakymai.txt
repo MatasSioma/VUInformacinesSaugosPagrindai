@@ -1,0 +1,19 @@
+Stud nr - 2314004
+Variantas - 5  (2314004 mod 10 + 1 = 5)
+
+AES-ECB atviras tekstas
+Akyse – kaip šilkas, už akių – kaip vilkas.
+
+AES-CBC atviras tekstas
+Ir asilas moka ausim karpyti, bet išmokyk jį arklą patampyti.
+
+AES-PCBC atviras tekstas
+Nedoras žmogus kitų dorybės neišmokys.
+
+AES-CFB atviras tekstas
+Tokią bobą tik dėti armoton ir šauti į velnių pulką.
+
+AES-OFB atviras tekstas
+Tinginys tingi, girtuoklis pralaka, o kvailas pats nežino, kur pinigą išleidžia.
+
+Programos kodas: rezimai.py (AES implementacija iš 9 lab: aes.py)

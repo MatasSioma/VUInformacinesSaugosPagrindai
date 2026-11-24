@@ -1,0 +1,13 @@
+Stud nr - 2314004
+Variantas - 5  (2314004 mod 10 + 1 = 5)
+
+Atšifruotas tekstas
+Ringaudai
+
+Šifras (pavardė "Semėnas", AES 3 raundai)
+e63aece27cc3344e910085a3eaae4fad
+
+Naudotas raktas
+38e1d0fa257d1a8800865ff4fc2896dd7725f2da24fd0d66aad66e0f80c08efb2178c8945e290500102c7a69914088d75f6326292b7b11bba9ded80f61afc9b4
+
+Programos kodas: aes.py
